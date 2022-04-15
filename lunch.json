@@ -1,0 +1,49 @@
+[
+    {
+      "img": "https://i.ibb.co/FDxsS6m/lunch1.png",
+      "id": 1,
+      "name": "Beef Steak",
+      "desc": "How we dream about our future",
+      "category": "lunch",
+      "price":"15.99"
+    },
+    {
+      "img": "https://i.ibb.co/2SSKgjv/lunch2.png",
+      "id": 2,
+      "name": "Salmon With Peppers",
+      "desc": "How we dream about our future",
+      "category": "lunch",
+      "price":"7.99"
+    },
+    {
+      "img": "https://i.ibb.co/51WzCm6/lunch3.png",
+      "id": 3,
+      "name": "Rubbed Salmon",
+      "desc": "How we dream about our future",
+      "category": "lunch",
+      "price":"6.99"
+    },
+    {
+      "img": "https://i.ibb.co/CnrTHN3/lunch4.png",
+      "id": 4,
+      "name": "Indian Lunch",
+      "desc": "How we dream about our future",
+      "category": "lunch",
+      "price":"8.99"
+    },
+    {
+      "img": "https://i.ibb.co/qJrn1Jy/lunch5.png",
+      "id": 5,
+      "name": "Fried Chicken",
+      "desc": "How we dream about our future",
+      "category": "lunch",
+      "price":"9.99"
+    },
+    {
+      "img": "https://i.ibb.co/5r0m4fy/lunch6.png",
+      "id": 6,
+      "name": "Healthy Meal Plan",
+      "desc": "How we dream about our future",
+      "category": "lunch"
+    }
+  ]
